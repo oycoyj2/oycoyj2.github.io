@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+title:              'Dalnoon Story'
+bio:                'Hello! Welcome to my github blog'
 description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+locale:             ko_KR.UTF-8
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://oycoyj2.github.io/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
