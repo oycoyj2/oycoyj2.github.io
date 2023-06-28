@@ -13,12 +13,12 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            default
 facebook:           default
-instagram:          default
-github:             default
+instagram:          yes_cha.no
+github:             https://github.com/oycoyj2
 
 # personal
 location:           Republic of Korea, Seoul
-instagram:          yes_cha.no
+phone:              010-7164-XXXX
 email:              oycoyj2@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
